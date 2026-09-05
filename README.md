@@ -32,6 +32,7 @@ Dashboard is built in **Databricks Lakeview**, querying directly off the Gold la
 ## Dashboard
 
 ![Online Retail Dashboard](dashboards/Dashboard1.png)
+
 ![Online Retail Dashboard](dashboards/Dashboard2.png)
 
 *Interactive version built in Databricks Lakeview (not publicly hostable — screenshot above reflects the live dashboard).*
